@@ -5,7 +5,6 @@ public class Invoice {
 	private Double tax;
 
 	public Invoice() {
-		super();
 	}
 
 	public Invoice(Double basicPayment, Double tax) {
